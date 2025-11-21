@@ -37,5 +37,9 @@ Osoby ktore maja jakie rangi na serwerze mandzukuo
 9. MVIP narazie nikt chce byc nim wbijaj na serwer
 
 
-1.Mamy tez Specjalne Kody ktore beda sie tu nieraz pojawiały
-2.narazie nie ma kodu
+1. Mamy tez Specjalne Kody ktore beda sie tu nieraz pojawiały
+2. narazie nie ma kodu
+
+
+
+Ekipa mandzukuowice tez robi Skripty ale nie sa za darmo Trzeba osiągnac Prog graczy na Serwerze mandzukuo.aternos.me wtedy skript zostanie odblokowany 
