@@ -16,9 +16,9 @@ Mody Które sa na mandzukuowicach
 
 Serwer mandzukuo
 JEST w Godzinach
-Poniedzialek 16.00
-wtorek 16.00
-sroda 16.00
+1. Poniedzialek 16.00
+2. wtorek 16.00
+3. sroda 16.00
 czwartek 16.00
 piatek 16.00
 sobota 15.00
