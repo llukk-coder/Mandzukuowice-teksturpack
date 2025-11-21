@@ -47,4 +47,4 @@ a oto link do pobierania skriptów https://github.com/llukk-coder/Skript-mandzuk
 
 
 Zmiany Serwerowe:
-Niedziela Start MandzukuoSMP<img width="1024" height="102" alt="download" src="https://github.com/user-attachments/assets/e4cca95a-3e72-4906-bda7-8215a23b7e13" />
+Niedziela Start MandzukuoSMP<img width="1024" height="1020" alt="download" src="https://github.com/user-attachments/assets/e4cca95a-3e72-4906-bda7-8215a23b7e13" />
