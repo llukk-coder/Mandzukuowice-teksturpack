@@ -43,3 +43,4 @@ Osoby ktore maja jakie rangi na serwerze mandzukuo
 
 
 Ekipa mandzukuowice tez robi Skripty ale nie sa za darmo Trzeba osiągnac Prog graczy na Serwerze mandzukuo.aternos.me wtedy skript zostanie odblokowany 
+a oto link do pobierania skriptów https://github.com/llukk-coder/Skript-mandzukuo/releases
