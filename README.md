@@ -48,3 +48,7 @@ a oto link do pobierania skriptów https://github.com/llukk-coder/Skript-mandzuk
 
 Zmiany Serwerowe:
 Niedziela Start MandzukuoSMP<img width="450" height="500" alt="download" src="https://github.com/user-attachments/assets/e4cca95a-3e72-4906-bda7-8215a23b7e13" />
+
+
+Tekturpack Robili llukkjan villager marcino wiktor uciekaj_123 Sprawy techniczne ChatGPT oraz Copilot
+
