@@ -26,16 +26,16 @@ JEST w Godzinach
 Więc wbij na serwer
 
 Osoby ktore maja jakie rangi na serwerze mandzukuo
-Własciciel llukkjan
-headadmin Villager
-admin marcino
-admin wiktor
-admin uciekaj_123
-admin Noobek
-Helper punkt 1 
-YT Narazie tylko Plastus2013 Ktory prowadzi kanał o mandzukuowicach
-MVIP narazie nikt chce byc nim wbijaj na serwer
+1. Własciciel llukkjan
+2. headadmin Villager
+3. admin marcino
+4. admin wiktor
+5. admin uciekaj_123
+6. admin Noobek
+7. Helper punkt 1 
+8. YT Narazie tylko Plastus2013 Ktory prowadzi kanał o mandzukuowicach
+9. MVIP narazie nikt chce byc nim wbijaj na serwer
 
 
-.Mamy tez Specjalne Kody ktore beda sie tu nieraz pojawiały
-.narazie nie ma kodu
+1.Mamy tez Specjalne Kody ktore beda sie tu nieraz pojawiały
+2.narazie nie ma kodu
