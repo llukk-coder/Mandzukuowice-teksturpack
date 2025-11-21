@@ -23,3 +23,19 @@ JEST w Godzinach
 5. piatek 16.00
 6. sobota 15.00
 7. niedziela 15.00
+Więc wbij na serwer
+
+Osoby ktore maja jakie rangi na serwerze mandzukuo
+Własciciel llukkjan
+headadmin Villager
+admin marcino
+admin wiktor
+admin uciekaj_123
+admin Noobek
+Helper punkt 1 
+YT Narazie tylko Plastus2013 Ktory prowadzi kanał o mandzukuowicach
+MVIP narazie nikt chce byc nim wbijaj na serwer
+
+
+.Mamy tez Specjalne Kody ktore beda sie tu nieraz pojawiały
+.narazie nie ma kodu
